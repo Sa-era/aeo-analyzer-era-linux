@@ -24,7 +24,7 @@ A powerful multi-layer website analysis tool for SEO professionals. Runs as a **
 
 ```bash
 # 1. Clone
-git clone https://github.com/YOUR_USERNAME/aeo-analyzer-era-linux.git
+git clone https://github.com/Sa-era/aeo-analyzer-era-linux.git
 cd aeo-analyzer-era-linux
 
 # 2. Install (one time only)
