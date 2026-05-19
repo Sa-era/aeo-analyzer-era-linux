@@ -33,18 +33,19 @@ bash install.sh
 # 3. Launch GUI
 bash run_gui.sh
 
-<img width="940" height="527" alt="image" src="https://github.com/user-attachments/assets/71027e03-49f0-4b7b-a377-57f75f47a9cf" />
 
 
 # 4. Or launch CLI
 bash run_cli.sh
 
-<img width="940" height="503" alt="image" src="https://github.com/user-attachments/assets/b36d89b5-1cbd-4112-a3fd-3751bb1ffb3d" />
 
 
 ```
 
 ---
+
+<img width="940" height="527" alt="image" src="https://github.com/user-attachments/assets/71027e03-49f0-4b7b-a377-57f75f47a9cf" />
+
 
 ## Files
 
@@ -65,6 +66,9 @@ aeo-analyzer-era-linux/
 ```
 
 ---
+
+<img width="940" height="503" alt="image" src="https://github.com/user-attachments/assets/b36d89b5-1cbd-4112-a3fd-3751bb1ffb3d" />
+
 
 ## Requirements
 
